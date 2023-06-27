@@ -1,0 +1,29 @@
+header
+{
+    background-color: rgb(93, 93, 93);
+    height: 150px;
+}
+
+body 
+{
+    margin: 0px;
+    background-color: lightgray;
+}
+
+div 
+{
+    background-color: white;
+    width: 60%;
+    height: 600px;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+footer
+{
+    height: 80px;
+    background-color: black;
+    margin-left: 20%;
+    margin-right: 20%;
+
+}
