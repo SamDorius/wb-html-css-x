@@ -1,0 +1,53 @@
+
+header
+{
+    background-color: silver;
+    height: 70px;
+    padding-top: 10px;
+    padding-left: 15px;
+}
+
+body
+{
+    margin: 0;
+}
+
+.sqr
+{
+    height: 60px;
+    background-color: blue;
+    width: 60px;
+}
+
+.text
+{
+    height: 200px;
+    padding: 30px;
+    margin-bottom: 0px;
+    line-height: 25px;
+}
+
+.blue
+{
+    background-color: blue;
+    height: 120px;
+    margin-top: -40px;
+}
+
+.cyan
+{
+    background-color: cyan;
+    height: 120px;
+}
+
+.green
+{
+    background-color: greenyellow;
+    height: 120px;
+}
+
+.yellow
+{
+    height: 120px;
+    background-color: yellow;
+}
